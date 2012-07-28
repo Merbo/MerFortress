@@ -1,0 +1,10 @@
+c:\users\merbo\documents\visual studio 11\Projects\MerFortress\MerFortress\bin\x86\Release\MerFortress.pdb
+c:\users\merbo\documents\visual studio 11\Projects\MerFortress\MerFortress\bin\x86\Release\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll
+c:\users\merbo\documents\visual studio 11\Projects\MerFortress\MerFortress\bin\x86\Release\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll
+c:\users\merbo\documents\visual studio 11\Projects\MerFortress\MerFortress\bin\x86\Release\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll
+c:\users\merbo\documents\visual studio 11\Projects\MerFortress\MerFortress\bin\x86\Release\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll
+c:\users\merbo\documents\visual studio 11\Projects\MerFortress\MerFortress\bin\x86\Release\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll
+c:\users\merbo\documents\visual studio 11\Projects\MerFortress\MerFortress\bin\x86\Release\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll
+c:\users\merbo\documents\visual studio 11\Projects\MerFortress\MerFortress\obj\x86\Release\MerFortress.pdb
+c:\users\merbo\documents\visual studio 11\Projects\MerFortress\MerFortress\bin\x86\Release\MerFortress.exe
+c:\users\merbo\documents\visual studio 11\Projects\MerFortress\MerFortress\obj\x86\Release\MerFortress.exe
