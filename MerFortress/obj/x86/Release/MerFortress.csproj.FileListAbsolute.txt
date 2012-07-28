@@ -8,3 +8,4 @@ c:\users\merbo\documents\visual studio 11\Projects\MerFortress\MerFortress\bin\x
 c:\users\merbo\documents\visual studio 11\Projects\MerFortress\MerFortress\obj\x86\Release\MerFortress.pdb
 c:\users\merbo\documents\visual studio 11\Projects\MerFortress\MerFortress\bin\x86\Release\MerFortress.exe
 c:\users\merbo\documents\visual studio 11\Projects\MerFortress\MerFortress\obj\x86\Release\MerFortress.exe
+c:\users\merbo\documents\visual studio 11\Projects\MerFortress\MerFortress\obj\x86\Release\MerFortress.csprojResolveAssemblyReference.cache

@@ -3,22 +3,35 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MerFortress", "MerFortress\MerFortress.csproj", "{1124E96E-B734-4587-ADF3-DB3AD7F1758B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MerFortressContent", "MerFortressContent\MerFortressContent.contentproj", "{47F9684F-747E-4B7E-8336-B1C73C93E7C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Debug|Windows Phone = Debug|Windows Phone
 		Debug|x86 = Debug|x86
 		Release|Any CPU = Release|Any CPU
+		Release|Windows Phone = Release|Windows Phone
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{1124E96E-B734-4587-ADF3-DB3AD7F1758B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1124E96E-B734-4587-ADF3-DB3AD7F1758B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1124E96E-B734-4587-ADF3-DB3AD7F1758B}.Debug|Windows Phone.ActiveCfg = Debug|Any CPU
 		{1124E96E-B734-4587-ADF3-DB3AD7F1758B}.Debug|x86.ActiveCfg = Release|x86
 		{1124E96E-B734-4587-ADF3-DB3AD7F1758B}.Debug|x86.Build.0 = Release|x86
 		{1124E96E-B734-4587-ADF3-DB3AD7F1758B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1124E96E-B734-4587-ADF3-DB3AD7F1758B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1124E96E-B734-4587-ADF3-DB3AD7F1758B}.Release|Windows Phone.ActiveCfg = Release|Any CPU
 		{1124E96E-B734-4587-ADF3-DB3AD7F1758B}.Release|x86.ActiveCfg = Release|x86
 		{1124E96E-B734-4587-ADF3-DB3AD7F1758B}.Release|x86.Build.0 = Release|x86
+		{47F9684F-747E-4B7E-8336-B1C73C93E7C9}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{47F9684F-747E-4B7E-8336-B1C73C93E7C9}.Debug|Windows Phone.ActiveCfg = Debug|x86
+		{47F9684F-747E-4B7E-8336-B1C73C93E7C9}.Debug|x86.ActiveCfg = Debug|x86
+		{47F9684F-747E-4B7E-8336-B1C73C93E7C9}.Debug|x86.Build.0 = Debug|x86
+		{47F9684F-747E-4B7E-8336-B1C73C93E7C9}.Release|Any CPU.ActiveCfg = Release|x86
+		{47F9684F-747E-4B7E-8336-B1C73C93E7C9}.Release|Windows Phone.ActiveCfg = Release|x86
+		{47F9684F-747E-4B7E-8336-B1C73C93E7C9}.Release|x86.ActiveCfg = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

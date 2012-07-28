@@ -9,9 +9,9 @@ namespace MerFortress
     {
         static void Main(string[] args)
         {
-            using (Game game = new Game())
+            using (GameEngine.Engine engine = new GameEngine.Engine())
             {
-                game.Run();
+                engine.Run();
             }
         }
     }
