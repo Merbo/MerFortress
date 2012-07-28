@@ -1,3 +1,0 @@
-MerFortress is a new alternative to TF2 written in C#+XNA.
-We plan to give more updates/patches based on what the users want, rather than the way valve does -- patch a bug and disappear for a few weeks.
-Valve are busy guys though, don't go bashing them.
